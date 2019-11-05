@@ -1,0 +1,10 @@
+## Interface: 11302
+## Title: baysikQoL
+## Notes: My test addon
+## Version: 1.0
+## DefaultState: enabled
+## Author: Baysik
+
+## DefaultState: enabled
+
+baysikQoL.lua
